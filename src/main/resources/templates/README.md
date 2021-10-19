@@ -1,9 +1,9 @@
 # MovieInfo App
 
-JavaScript/jQuery app that fetches movie data from the OMDb API
+JavaScript/jQuery/java(Spring) app that fetches movie data from the OMDb API
 
 ## Usage
 
 ```bash
-Run index.html on any server
+Run using spring tools
 ```
